@@ -1,5 +1,5 @@
 # motioncut-task1
-To-do-List using Python programming Language
+To-do-List Application using Python programming Language
 
 # README: To Do List (TASK 1)
 
