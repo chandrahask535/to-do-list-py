@@ -1,7 +1,6 @@
-# motioncut-task1
 To-do-List Application using Python programming Language
 
-# README: To Do List (TASK 1)
+# README: To Do List
 
 ## Author: CHANDRAHAS K
 
