@@ -4,8 +4,6 @@ To-do-List Application using Python programming Language
 
 ## Author: CHANDRAHAS K
 
-## Batch:(5th NOVEMBER- 5th DECEMBER)
-
 ## Domain: PYTHON Programming
 
 ## Aim
